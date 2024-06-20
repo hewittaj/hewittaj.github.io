@@ -4,4 +4,6 @@ site_description: Alex Hewitt's personal blog.
 site_url: https://blog.alexjhewitt.com
 theme:
   name: material
-
+plugins:
+  - search
+  - blog

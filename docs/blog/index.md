@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Hello
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Hi, my name is Alex Hewitt and I am an experienced software developer passionate about learning new skills and continuous education. I write about things I am interested in, projects I am working on, and various other passions!

@@ -1,29 +1,3 @@
-# build output
-dist/
-.output/
-
-# dependencies
-node_modules/
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-
-# environment variables
-.env
-.env.production
-
-# macOS-specific files
-.DS_Store
-
-# misc
-*.pem
-.cache
-.astro
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -109,7 +83,7 @@ target/
 profile_default/
 ipython_config.py
 
-# pyenv
+# pythuthubbenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
@@ -163,14 +137,6 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
 
 # Pyre type checker
 .pyre/

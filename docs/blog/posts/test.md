@@ -1,6 +1,6 @@
 ---
 date:
-  created: 06.20.2023
+  created: 2023-06-20T00:00:00.000Z
 ---
 # Test post
 

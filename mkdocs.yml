@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Alex Hewitt's Blog
+site_url: https://blog.alexjhewitt.com
 theme:
   name: material
 

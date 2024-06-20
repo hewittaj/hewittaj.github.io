@@ -1,9 +1,5 @@
 authors:
-  team:
-    name: Team
+  alexhewitt:
+    name: Alex Hewitt
     description: Creator
-    avatar: https://simpleicons.org/icons/materialformkdocs.svg
-  squidfunk:
-    name: Martin Donath
-    description: Creator
-    avatar: https://github.com/squidfunk.png
+    avatar: ""

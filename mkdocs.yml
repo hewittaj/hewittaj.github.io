@@ -3,8 +3,6 @@ site_name: Alex Hewitt's Blog
 site_description: Alex Hewitt's personal blog.
 site_url: https://blog.alexjhewitt.com
 
-nav:
-  - Home: index.md
 theme:
   name: material
 plugins:
